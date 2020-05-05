@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[open another file](/another-file) 
+[open another file](/today-i-learned/another-file) 
 
 You can use the [editor on GitHub](https://github.com/enzoz/today-i-learned/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
