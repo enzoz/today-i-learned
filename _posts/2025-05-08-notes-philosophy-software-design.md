@@ -22,17 +22,17 @@ and
 
 ## Notes
 
-**Page 3:**
+**Page: 3**
 
 > Incremental development means that software design is never done. Design happens continuously over the life of a system: developers should always be thinking about design issues. Incremental development also means continuous redesign.
 
-**Page 5:**
+**Page: 5**
 
 > Complexity is anything related to the structure of a software system that makes it hard to understand and modify the system.
 
 > Complexity can take many forms. For example, it might be hard to understand how a piece of code works; it might take a lot of effort to implement a small improvement, or it might not be clear which parts of the system must be modified to make the improvement; it might be difficult to fix one bug without introducing another. If a software system is hard to understand and modify, then it is complicated; if it is easy to understand and modify, then it is simple.
 
-**Page 6:**
+**Page: 6**
 
 > Isolating complexity in a place where it will never be seen is almost as good as eliminating the complexity entirely.
 
@@ -40,7 +40,7 @@ and
 
 > Your job as a developer is not just to create code that you can work with easily, but to create code that others can also work with easily.
 
-**Page 7:**
+**Page: 7**
 
 > Change amplification: The first symptom of complexity is that a seemingly simple change requires code modifications in many different places.
 
@@ -54,7 +54,7 @@ and
 
 > Sometimes an approach that requires more lines of code is actually simpler, because it reduces cognitive load.
 
-**Page 8:**
+**Page: 8**
 
 > Unknown unknowns: The third symptom of complexity is that it is not obvious which pieces of code must be modified to complete a task, or what information a developer must have to carry out the task successfully.
 
