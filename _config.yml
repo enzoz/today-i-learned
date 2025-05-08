@@ -24,8 +24,12 @@ domain: "blog.enzoz.me" # the domain of your site, e.g. example.com
 url: "https://blog.enzoz.me" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
 theme: minima
+minima:
+  hide_site_feed_link: false
+  header_pages:
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default.
